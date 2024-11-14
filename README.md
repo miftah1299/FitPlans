@@ -1,8 +1,20 @@
-# React + Vite
+# FitPlans
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FitPlans is a React application that allows users to view and select different gym membership plans. The application fetches pricing options from a JSON file and displays them in a user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   Display various gym membership plans
+-   Show plan details including price and features
+-   Interactive UI with hover effects
+-   Responsive design
+
+## Technologies Used
+
+-   React
+-   Tailwind CSS
+-   React Icons
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
